@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafelyQFunctionCalling", "SafelyQFunctionCalling\SafelyQFunctionCalling.csproj", "{3C93D0DD-E19A-47FE-88AB-6FFE7A8A6295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C93D0DD-E19A-47FE-88AB-6FFE7A8A6295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C93D0DD-E19A-47FE-88AB-6FFE7A8A6295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C93D0DD-E19A-47FE-88AB-6FFE7A8A6295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C93D0DD-E19A-47FE-88AB-6FFE7A8A6295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B350C6-7CCD-43DA-82AD-74FBE3942555}
+	EndGlobalSection
+EndGlobal

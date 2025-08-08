@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jaPAy4t05I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmad\\source\\repos\\SafelyQFunctionCalling\\SafelyQFunctionCalling\\SafelyQFunctionCalling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmad\\.nuget\\packages\\csharptojsonschema\\3.10.2-dev.39\\csharptojsonschema.3.10.2-dev.39.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\google_generativeai\\3.0.0\\google_generativeai.3.0.0.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\google_generativeai.tools\\3.0.0\\google_generativeai.tools.3.0.0.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.4.0-preview.1.25207.5\\microsoft.extensions.ai.abstractions.9.4.0-preview.1.25207.5.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.logging\\9.0.3\\microsoft.extensions.logging.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.3\\system.diagnostics.diagnosticsource.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
